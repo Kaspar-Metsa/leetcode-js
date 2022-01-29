@@ -1,5 +1,3 @@
-const string = "au"
-
 function lengthOfLongestSubstring(s) {
     if (s.length <= 1) return s.length;
 

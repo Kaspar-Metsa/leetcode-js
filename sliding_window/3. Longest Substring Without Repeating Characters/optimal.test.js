@@ -1,4 +1,4 @@
-const lengthOfLongestSubstring = require('./sum');
+const lengthOfLongestSubstring = require('./optimal');
 
 test('lengthOfLongestSubstring', () => {
     expect(lengthOfLongestSubstring("abccabb")).toBe(3);
